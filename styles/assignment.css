@@ -1,0 +1,173 @@
+.header {
+    height: 600px;
+    max-width: 1250px;
+    width: 1320px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    text-align: center;
+    padding: 50px 40px 10px 40px;
+    margin: 0 auto;
+    justify-content: center;
+    background-image: url("../images/Banner\ Image.png");
+    align-items: center;
+    flex-direction: column;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-style: normal;
+    margin: 177px 330px 0px 330px;
+    color: #FFF;
+    font-size: 32px;
+}
+
+.title-header {
+    color: #ffffff;
+    text-align: center;
+    font-size: 70px;
+    margin: 10px 244px 177px 244px;
+}
+
+.section-heading {
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.section-heading h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 16px;
+    margin: 50px 8px 48px 6px;
+}
+
+.section-heading h5 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 16px 0px 16px 0px;
+}
+
+.section-heading h3 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-family: Inter;
+    margin: 16px;
+}
+
+.section-content {
+    width: 802px;
+    height: 500px;
+    text-align: center;
+    padding: 10px 258px 70px 259px;
+    margin: auto;
+}
+
+.vector-heading {
+    height: 600px;
+    width: 1320px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-image: url('../images/Vectorrr.png');
+}
+
+.heading-content {
+    text-decoration: solid;
+
+}
+
+.vector-title {
+    color: #FFF;
+    font-style: normal;
+    padding: 100px 0px 0px 100px;
+    font-size: 64px;
+    letter-spacing: 7.04px;
+
+}
+
+.description {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-style: normal;
+    margin-left: 100px;
+    margin-right: 0px;
+
+}
+
+.model-2024 {
+    width: 319.83px;
+    height: 464.662px;
+    margin: 65px 120px 50px 200px;
+    text-align: center;
+}
+
+.button-2024 {
+    border: 5px;
+    color: #FFF;
+    background-color: #070211;
+    font-size: 20px;
+    text-align: center;
+    margin: 32px 0px 120px 130px;
+}
+
+.background {
+    background-color: rgba(255, 0, 0, 0.10);
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}
+
+.date-line {
+    padding: 100px 386px 214px 385px;
+    align-items: center;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.span-hed {
+    color: #F00;
+}
+
+.background-button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: 0;
+    background: #F00;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main-head {
+    background: #FFF;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
